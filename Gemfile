@@ -5,3 +5,7 @@ gem "jekyll", "~> 4.3" # installed by `gem jekyll`
 
 gem "just-the-docs", "0.4.0.rc3" # currently the latest pre-release
 # gem "just-the-docs"            # the latest release - currently 0.3.3
+
+gem 'nokogiri'
+gem 'rack', '~> 2.2.4'
+gem 'rspec'
