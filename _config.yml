@@ -3,3 +3,6 @@ description: How to plan and prepare to perform on race day
 theme: just-the-docs
 
 url: https://scottsemple.github.io/the-skimo-survival-guide
+
+search:
+    button: true
